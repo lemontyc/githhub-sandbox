@@ -22,7 +22,8 @@ def format_Earth_diameter():
     planet = "Earth"
     diameter = 12742
     # Include your code in the next lines
-    return
+    print('The diameter of %s is %d'.format(planet,diameter))
+    return print('The diameter of %s is %d'.format(planet,diameter))
 
 
 # Given this nested list, use indexing to grab the word "hello"
