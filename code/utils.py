@@ -1,6 +1,7 @@
 # What is 5 to the power of 7?
 def pow_5_7():
     # Include your code in the next line
+    pow(5,7)
     return 
 
 
